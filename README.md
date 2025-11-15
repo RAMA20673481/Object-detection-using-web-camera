@@ -8,29 +8,44 @@ Welcome to the YOLOv4 Real-Time Object Detection project — a simple yet powerf
 
 # Features:
 1.Detects 80+ everyday objects (person, car, bottle, dog, etc.)
+
 2.Uses YOLOv4, a fast and accurate real-time object detection model
+
 3.Displays bounding boxes with confidence scores
+
 4.Works directly with your webcam
+
 5.Smooth and real-time output
 
 # Technologies Used:
 1.Python
+
 2.OpenCV for camera access and image processing
+
 3.NumPy for efficient numerical operations
+
 4.YOLOv4 (weights + config + COCO class labels)
 
 # How to Use:
 1.Clone this repository.
+
 2.Download the YOLOv4 model files (yolov4.weights, yolov4.cfg, coco.names).
+
 3.Place all the files in your project folder.
+
 4.Run the Python script to start real-time detection.
+
 5.Press 'q' anytime to quit the webcam window.
 
 # Applications:
 1.Learning how deep learning models perform object detection
+
 2.Understanding image processing fundamentals
+
 3.Real-time AI projects for beginners and students
+
 4.Experimenting with computer vision workflows
+
 5.Robotics, surveillance demos, smart camera prototypes
 
 # Program:
